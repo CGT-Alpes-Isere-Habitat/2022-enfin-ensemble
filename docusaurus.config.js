@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '2022, Enfin Ensemble !',
   tagline: 'Liste pour les élections professionnelles 2022 au sein d\'Alpes Isère Habitat',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://cgt-alpes-isere-habitat.github.io/',
+  baseUrl: '/2022-enfin-ensemble/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'CGT-Alpes-Isere-Habitat', // Usually your GitHub org/user name.
+  projectName: '2022-enfin-ensemble', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/CGT-Alpes-Isere-Habitat/2022-enfin-ensemble/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/CGT-Alpes-Isere-Habitat/2022-enfin-ensemble/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
