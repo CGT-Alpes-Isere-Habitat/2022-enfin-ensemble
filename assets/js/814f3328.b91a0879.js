@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_2022_enfin_ensemble=self.webpackChunk_2022_enfin_ensemble||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/2022-enfin-ensemble/blog/welcome"}]}')}}]);
