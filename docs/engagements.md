@@ -33,4 +33,6 @@ Nous nous engageons à agir pour le **bien commun**, que ce soit pour les acquis
 
 * Nous considérons que **l'ensemble de nos acquis sociaux font partie du bien commun** de notre entreprise, aussi nous nous engageons à les préserver, voir à en obtenir de nouveau.
 
-* Nous considérons que l'impact social et economique de
+* Nous considérons que l'impact social et economique de notre entreprise doit faire partie de nos priorités. Notre activité à des conséquences, et nous souhaitons quelles soient le plus positive possible.
+
+* La justice et l'équité sont des valeurs fondamentale pour notre équipe, et nous serons toujours les premiers pour défendre ces valeurs, pour toutes et tous !
