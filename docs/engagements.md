@@ -25,4 +25,18 @@ Comme nous l'avons toujours fait, nous continuerons de travailler à améliorer 
 
 * Nous serons force de proposition dans l'amélioration des conditions de travail, et nous pensons à la fois au personnel de terrain, aux chefs de service, aux managers ou au personnel en télétravail. Personne, absolument personne ne sera oublié !
 
+<<<<<<< HEAD
 * Nous partagerons avec vous l'ensemble des sujets qui seront mis sur la table. Nous nous engageons à agir en transparence, en communiquant régulièrement avec vous.
+=======
+* Nous partagerons avec vous l'ensemble des sujets qui seront mis sur la table. Nous nous engageons à agir en transparence, en communiquant régulièrement avec vous.
+
+## Au service du bien commun
+
+Nous nous engageons à agir pour le **bien commun**, que ce soit pour les acquis sociaux de l'entreprise, que pour son impact sur son environnement.
+
+* Nous considérons que **l'ensemble de nos acquis sociaux font partie du bien commun** de notre entreprise, aussi nous nous engageons à les préserver, voir à en obtenir de nouveau.
+
+* Nous considérons que l'impact social et economique de notre entreprise doit faire partie de nos priorités. Notre activité à des conséquences, et nous souhaitons quelles soient le plus positive possible.
+
+* La justice et l'équité sont des valeurs fondamentale pour notre équipe, et nous serons toujours les premiers pour défendre ces valeurs, pour toutes et tous !
+>>>>>>> f7eea78e8034a2f0515363ae29508d2fe4ff615f
