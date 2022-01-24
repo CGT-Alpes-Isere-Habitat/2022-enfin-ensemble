@@ -16,13 +16,13 @@ Découvrez nos valeurs **en moins de 5 minutes**.
 
 * La CGT Alpes Isère Habitat agit pour promouvoir l’**égalité entre les femmes et les hommes**, les libertés et les droits syndicaux, le **plein exercice de la citoyenneté**, la **défense de l’environnement**, pour la **paix et le désarmement**, pour les **droits de l’homme** et le **rapprochement des peuples**.
 
-* Le syndicat CGT Alpes Isère Habitat attachée aux principes fondateurs du syndicalisme confédéré et interprofessionnel, oeuvre au rassemblement de tous les salariés dans leur diversité, à l’unité du mouvement syndical national, européen et international. Les principes d’égalité, de solidarité, d’écoute, de tolérance et d’épanouissement des diversités pour lesquels elle oeuvre, animent la vie démocratique en son sein.
+* Le syndicat CGT Alpes Isère Habitat attaché aux principes fondateurs du syndicalisme confédéré et interprofessionnel, oeuvre au rassemblement de tous les salariés dans leur diversité, à l’unité du mouvement syndical national, européen et international. Les principes d’égalité, de solidarité, d’écoute, de tolérance et d’épanouissement des diversités pour lesquelles elle oeuvre, animent la vie démocratique en son sein.
 
 ## La solidarité, une valeur essentielle !
 
 **Des êtres solidaires, pas solitaires !**
 
-Solidarité ! Une valeur qui sonne juste et qui résonne très fortement aux oreilles et au cœur des femmes et des hommes de toutes générations qui font la CGT Alpes Isère Habitat.
+Solidarité ! Une valeur qui sonne juste et qui résonne très fortement aux oreilles et aux cœurs des femmes et des hommes de toutes générations qui font la CGT Alpes Isère Habitat.
 
 Elle est sa raison d’être, elle conditionne sa démarche syndicale.
 
