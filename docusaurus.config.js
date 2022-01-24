@@ -59,9 +59,9 @@ const config = {
             type: 'doc',
             docId: 'engagements',
             position: 'left',
-            label: 'Nos engagement',
+            label: 'Nos engagements',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          //{to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
       footer: {
